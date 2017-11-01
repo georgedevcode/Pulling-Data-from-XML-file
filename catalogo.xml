@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <CATALOGO>
+        <CD>
+            <TITULO>ALBUM 1</TITULO>
+            <ARTISTA>CADHEJO</ARTISTA>
+            <PAIS>Costa Rica</PAIS>
+            <EMPRESA>Patito 1</EMPRESA>
+            <PRECIO>$5000</PRECIO>
+            <YEAR>2015</YEAR>
+        </CD>
+        <CD>
+            <TITULO>ALBUM 2</TITULO>
+            <ARTISTA>COCOFUNKA</ARTISTA>
+            <PAIS>Costa Rica</PAIS>
+            <EMPRESA>Patito 2</EMPRESA>
+            <PRECIO>$5000</PRECIO>
+            <YEAR>2015</YEAR>
+        </CD>
+        <CD>
+            <TITULO>ALBUM 3</TITULO>
+            <ARTISTA>424</ARTISTA>
+            <PAIS>Costa Rica</PAIS>
+            <EMPRESA>Patito 3</EMPRESA>
+            <PRECIO>$5000</PRECIO>
+            <YEAR>2015</YEAR>
+        </CD>
+        <CD>
+            <TITULO>ALBUM 4</TITULO>
+            <ARTISTA>HANNA</ARTISTA>
+            <PAIS>Costa Rica</PAIS>
+            <EMPRESA>Patito 4</EMPRESA>
+            <PRECIO>$5000</PRECIO>
+            <YEAR>2015</YEAR>
+        </CD>
+        <CD>
+            <TITULO>ALBUM 5</TITULO>
+            <ARTISTA>GOVINDA</ARTISTA>
+            <PAIS>Costa Rica</PAIS>
+            <EMPRESA>Patito 5</EMPRESA>
+            <PRECIO>$5000</PRECIO>
+            <YEAR>2015</YEAR>
+        </CD>
+    </CATALOGO>
