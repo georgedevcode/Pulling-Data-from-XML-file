@@ -1,0 +1,8 @@
+{
+    "nombre": "Jorge",
+    "Profesion":"Ingeniero Electronico & Comunicaciones",
+    "Correo":[
+        {"tipo1":"trabajo", "valor":"ejemplo@trabajo.com"},
+        {"tipo2":"personal","valor":"ejemplo@personal.com"}
+    ]
+}
