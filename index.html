@@ -1,12 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Clase JS</title>
+    <title>Practica Ajax</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1">
 </head>
-<body>
-    </body>
-    <button onclick="cargarXML()">Cargar XML</button>
+<body onload="cargaContenido()">
+    <h2>Texto</h2>
+    <button onclick="cargarTexto()">Cargar Informacion</button>
+    <div id="resultado"></div>
+
+    <hr>
+    <h2>XML</h2>
+    <p>
+        <button onclick="cargarXML()">Cargar Informacion del XML</button>
+    </p>
     <table id="lista"></table>
-    <script type="text/javascript" src="js/app.js"></script>
+
+    <hr>
+    <h2>Json</h2>
+    <div id="lista2"></div>
+
 </body>
+    <script type="text/javascript" src="js/script.js"></script>
 </html>

@@ -1,1 +1,1 @@
-Esto es una prueba
+esto es una prueba de carga mediante el metodo de ajax

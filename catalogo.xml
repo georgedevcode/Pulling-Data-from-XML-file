@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <CATALOGO>
-        <CD>
-            <TITULO>ALBUM 1</TITULO>
-            <ARTISTA>CADHEJO</ARTISTA>
-            <PAIS>Costa Rica</PAIS>
-            <EMPRESA>Patito 1</EMPRESA>
-            <PRECIO>$5000</PRECIO>
-            <YEAR>2015</YEAR>
-        </CD>
-        <CD>
-            <TITULO>ALBUM 2</TITULO>
-            <ARTISTA>COCOFUNKA</ARTISTA>
-            <PAIS>Costa Rica</PAIS>
-            <EMPRESA>Patito 2</EMPRESA>
-            <PRECIO>$5000</PRECIO>
-            <YEAR>2015</YEAR>
-        </CD>
-        <CD>
-            <TITULO>ALBUM 3</TITULO>
-            <ARTISTA>424</ARTISTA>
-            <PAIS>Costa Rica</PAIS>
-            <EMPRESA>Patito 3</EMPRESA>
-            <PRECIO>$5000</PRECIO>
-            <YEAR>2015</YEAR>
-        </CD>
-        <CD>
-            <TITULO>ALBUM 4</TITULO>
-            <ARTISTA>HANNA</ARTISTA>
-            <PAIS>Costa Rica</PAIS>
-            <EMPRESA>Patito 4</EMPRESA>
-            <PRECIO>$5000</PRECIO>
-            <YEAR>2015</YEAR>
-        </CD>
-        <CD>
-            <TITULO>ALBUM 5</TITULO>
-            <ARTISTA>GOVINDA</ARTISTA>
-            <PAIS>Costa Rica</PAIS>
-            <EMPRESA>Patito 5</EMPRESA>
-            <PRECIO>$5000</PRECIO>
-            <YEAR>2015</YEAR>
-        </CD>
-    </CATALOGO>
+<CATALOGO>
+    <CD>
+        <TITULO>album 1</TITULO>
+        <ARTISTA>cantante 1</ARTISTA>
+        <PAIS>Costa Rica</PAIS>
+        <EMPRESA>Patito</EMPRESA>
+        <PRECIO>¢50000</PRECIO>
+        <YEAR>2015</YEAR>
+    </CD>
+    <CD>
+        <TITULO>album 2</TITULO>
+        <ARTISTA>cantante 2</ARTISTA>
+        <PAIS>Colombia</PAIS>
+        <EMPRESA>Patito 2</EMPRESA>
+        <PRECIO>¢40000</PRECIO>
+        <YEAR>2015</YEAR>
+    </CD>
+    <CD>
+        <TITULO>album 3</TITULO>
+        <ARTISTA>cantante 3</ARTISTA>
+        <PAIS>Mexico</PAIS>
+        <EMPRESA>Patito 3</EMPRESA>
+        <PRECIO>¢20000</PRECIO>
+        <YEAR>2015</YEAR>
+    </CD>
+    <CD>
+        <TITULO>album 4</TITULO>
+        <ARTISTA>cantante 4</ARTISTA>
+        <PAIS>Panama</PAIS>
+        <EMPRESA>Patito 4</EMPRESA>
+        <PRECIO>¢80000</PRECIO>
+        <YEAR>2015</YEAR>
+    </CD>
+    <CD>
+        <TITULO>album 5</TITULO>
+        <ARTISTA>cantante 5</ARTISTA>
+        <PAIS>Puerto Rico</PAIS>
+        <EMPRESA>Patito 5</EMPRESA>
+        <PRECIO>¢60000</PRECIO>
+        <YEAR>2015</YEAR>
+    </CD>
+</CATALOGO>
